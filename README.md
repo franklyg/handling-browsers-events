@@ -7,13 +7,10 @@ npm i
 npm run dev
 ```
 
-## MDN Events reference 🦊
+## MDN Events Reference 🦊
 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/Events#event_listing)
 
-## Localhost URL
-[localhost:5173/](http://localhost:5173/)
-
-## For following along:
+## Lessons we'll be following:
 
 ### Registering events page
 [localhost:5173/pages/register-events-examples.html](http://localhost:5173/pages/register-events-examples.html)
